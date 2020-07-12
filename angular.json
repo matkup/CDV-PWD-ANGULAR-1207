@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PWA"
+    }
+  },
+  "defaultProject": "PWA",
+  "cli": {
+    "analytics": false
+  }
 }
